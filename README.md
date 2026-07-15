@@ -27,6 +27,40 @@ During GSSoC, I actively contributed to open-source by collaborating with mainta
 * **Databases:** MongoDB, Mongoose ODM, SQL (Relational Databases)
 ---
 
+## 🚀 Featured Projects
+
+#### 💬 Let's Chat (MERN, Socket.io, Tailwind, Zustand)
+A real-time bidirectional messaging platform prioritizing security and speed. 
+* Engineered a modular Express.js backend with **HTTP-only JWT** authentication to mitigate XSS risks.
+* Implemented **WebSockets** for seamless real-time chatting and user presence tracking.
+* Designed a highly responsive UI featuring **32 switchable DaisyUI themes** and integrated Cloudinary for fast media delivery.
+
+#### 📄 InterVue Buddy (MERN, Gemini API, Puppeteer, Zod)
+An end-to-end AI-powered interview preparation and resume generation platform.
+* Built an asynchronous PDF compilation pipeline using **Puppeteer** and the **Gemini AI API**.
+* Automated the generation of ATS-friendly resumes with one-click exports, isolating headless browser operations to optimize the Node.js event loop.
+* Designed **15+ RESTful APIs** utilizing MVC architecture and rigorous Zod schema validation.
+
+---
+### 📈 GitHub Analytics & Activity
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Consistent+Open+Source+Contributor;Passionate+Full-Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Butola006&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Aditya's GitHub Stats" />
+  
+  <img height="165px" src="https://streak-stats.demolab.com/?user=Butola006&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Aditya's Streak" />
+</div>
+
+<div align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Butola006&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
+</div>
 
 ---
 
