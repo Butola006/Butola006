@@ -9,8 +9,12 @@ I am a 4th-year engineering undergraduate at **NSUT**, driven by curiosity for f
 **GirlScript Summer of Code (GSSoC) Contributor**
 During GSSoC, I actively contributed to open-source by collaborating with maintainers and shipping quality code. My key contributions include:
 
-* **[Project Name 1](Link to the PR or Repository):** Briefly describe what you did. *(e.g., "Resolved a major UI bug and optimized the database query for the main dashboard.")*
-* **[Project Name 2](Link to the PR or Repository):** Briefly describe your contribution. *(e.g., "Added a new authentication feature using Node.js and improved documentation.")*
+| Repository / Project | Top Contributions | Status |
+| :--- | :--- | :---: |
+| **[Splitr](https://github.com/dhruvbajaj13/Splitr)** | [Improved footer responsiveness and readability on mobile](https://github.com/dhruvbajaj13/Splitr/pull/73) | 🟣 Merged |
+| **[my-habit-tracker](https://github.com/Riti2407/my-habit-tracker)** | [Enhanced Contact section UI for Dark Mode:](https://github.com/Riti2407/my-habit-tracker/pull/234) | 🟣 Merged |
+| **[AlgoVisualizer](https://github.com/RhythmPahwa14/AlgoVisualizer)** | [Fixed all incorrect answers and validations for all DataStructure based questions](https://github.com/RhythmPahwa14/AlgoVisualizer/pull/1453) | 🟣 Merged |
+| **[my-habit-tracker](https://github.com/Riti2407/my-habit-tracker)** | [Improve Dark Mode Readability and Clean Up Navbar Layout](https://github.com/Riti2407/my-habit-tracker/pull/221) | 🟣 Merged |
 
 ---
 
