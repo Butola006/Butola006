@@ -27,11 +27,6 @@ During GSSoC, I actively contributed to open-source by collaborating with mainta
 * **Databases:** MongoDB, Mongoose ODM, SQL (Relational Databases)
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Butola006&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Aditya's GitHub Stats" />
-</div>
 
 ---
 
