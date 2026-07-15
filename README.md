@@ -16,10 +16,11 @@ During GSSoC, I actively contributed to open-source by collaborating with mainta
 
 ## 💻 Tech Stack & Tools
 
-* **Languages:** JavaScript, TypeScript, HTML, CSS
-* **Frameworks/Libraries:** [Add your frameworks here, e.g., React.js, Node.js, Express]
-* **Tools:** Git, GitHub, [Add other tools, e.g., VS Code, Postman]
-
+* **Languages(Frontend):** React.js, HTML5, CSS3, SCSS, React Router, Context API, Tailwind CSS, DaisyUI
+* **Languages(Backend):** Node.js, Express.js, RESTful APIs, JWT Authentication, Google Gemini API, Axios, WebSockets
+(Socket.io)
+* **Tools and Libararies:** Git, GitHub, Postman, VS Code, Puppeteer, Multer, PDF-Parse, Zod
+* **Databases:** MongoDB, Mongoose ODM, SQL (Relational Databases)
 ---
 
 ## 📈 GitHub Analytics
