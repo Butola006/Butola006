@@ -58,10 +58,6 @@ An end-to-end AI-powered interview preparation and resume generation platform.
   <img height="165px" src="https://streak-stats.demolab.com/?user=Butola006&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Aditya's Streak" />
 </div>
 
-<div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Butola006&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C3D1D9" alt="Top Languages" />
-</div>
-
 ---
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/aditya-butola-888535289)
