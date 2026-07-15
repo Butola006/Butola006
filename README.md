@@ -29,13 +29,13 @@ During GSSoC, I actively contributed to open-source by collaborating with mainta
 
 ## 🚀 Featured Projects
 
-#### 💬 Let's Chat (MERN, Socket.io, Tailwind, Zustand)
+#### 💬 Let's Chat (MERN, Socket.io, Tailwind, Zustand) [https://github.com/Butola006/SmartChatty]
 A real-time bidirectional messaging platform prioritizing security and speed. 
 * Engineered a modular Express.js backend with **HTTP-only JWT** authentication to mitigate XSS risks.
 * Implemented **WebSockets** for seamless real-time chatting and user presence tracking.
 * Designed a highly responsive UI featuring **32 switchable DaisyUI themes** and integrated Cloudinary for fast media delivery.
 
-#### 📄 InterVue Buddy (MERN, Gemini API, Puppeteer, Zod)
+#### 📄 InterVue Buddy (MERN, Gemini API, Puppeteer, Zod) [https://github.com/Butola006/InterVue-Buddy]
 An end-to-end AI-powered interview preparation and resume generation platform.
 * Built an asynchronous PDF compilation pipeline using **Puppeteer** and the **Gemini AI API**.
 * Automated the generation of ATS-friendly resumes with one-click exports, isolating headless browser operations to optimize the Node.js event loop.
