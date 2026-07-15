@@ -53,8 +53,6 @@ An end-to-end AI-powered interview preparation and resume generation platform.
 <br/>
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=Butola006&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Aditya's GitHub Stats" />
-  
   <img height="165px" src="https://streak-stats.demolab.com/?user=Butola006&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Aditya's Streak" />
 </div>
 
