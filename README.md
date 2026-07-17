@@ -42,10 +42,10 @@ An end-to-end AI-powered interview preparation and resume generation platform.
 * Designed **15+ RESTful APIs** utilizing MVC architecture and rigorous Zod schema validation.
 
 ---
-### 📈 GitHub Analytics & Activity
+### 📈 GitHub Profile Analytics & Achievements
 
 <div align="center">
-  <!-- Dynamic Typing Animation (Kept because you liked it!) -->
+  <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Consistent+Open+Source+Contributor;Passionate+Full-Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
@@ -53,13 +53,10 @@ An end-to-end AI-powered interview preparation and resume generation platform.
 
 <br/>
 
-> [!TIP]
-> ### ⚡ Quick Metrics (GSSoC 2025 & Beyond)
-> * **🏆 Open Source Status:** Ranked in the **Top 12.5%** of all global contributors.
-> * **🚀 Impact Metrics:** Successfully delivered **10+ merged production pull requests**.
-> * **🧠 Algorithmic Core:** Solved **230+ engineering challenges** across LeetCode & GFG.
-> * **🔥 Current Focus:** Advancing scalable backend architectures and real-time state synchronization.
-
+* **🏆 Open Source Status:** Ranked in the **Top 12.5%** of all global contributors.
+* **🚀 Impact Metrics:** Successfully delivered **10+ merged production pull requests**.
+* **🧠 Algorithmic Core:** Solved **230+ engineering challenges** across LeetCode & GFG.
+* **🔥 Current Focus:** Advancing scalable backend architectures and real-time state synchronization.
 ---
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/aditya-butola-888535289)
