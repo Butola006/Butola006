@@ -45,6 +45,7 @@ An end-to-end AI-powered interview preparation and resume generation platform.
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
+  <!-- Dynamic Typing Animation (Kept because you liked it!) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Consistent+Open+Source+Contributor;Passionate+Full-Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
@@ -52,9 +53,12 @@ An end-to-end AI-powered interview preparation and resume generation platform.
 
 <br/>
 
-<div align="center">
-  <img height="165px" src="https://streak-stats.demolab.com/?user=Butola006&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Aditya's Streak" />
-</div>
+> [!TIP]
+> ### ⚡ Quick Metrics (GSSoC 2025 & Beyond)
+> * **🏆 Open Source Status:** Ranked in the **Top 12.5%** of all global contributors.
+> * **🚀 Impact Metrics:** Successfully delivered **10+ merged production pull requests**.
+> * **🧠 Algorithmic Core:** Solved **230+ engineering challenges** across LeetCode & GFG.
+> * **🔥 Current Focus:** Advancing scalable backend architectures and real-time state synchronization.
 
 ---
 
