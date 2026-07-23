@@ -99,12 +99,6 @@ An end-to-end AI-powered interview preparation and resume generation platform.
 * **🧠 Algorithmic Core:** Solved **230+ engineering challenges** across LeetCode & GFG.
 * **🔥 Current Focus:** Advancing scalable backend architectures and real-time state synchronization.
 
-<br/>
-
-* **🏆 Open Source Status:** Ranked in the **Top 12.5%** of all global contributors.
-* **🚀 Impact Metrics:** Successfully delivered **10+ merged production pull requests**.
-* **🧠 Algorithmic Core:** Solved **230+ engineering challenges** across LeetCode & GFG.
-* **🔥 Current Focus:** Advancing scalable backend architectures and real-time state synchronization.
 ---
 
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/aditya-butola-888535289)
