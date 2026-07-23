@@ -20,22 +20,56 @@ During GSSoC, I actively contributed to open-source by collaborating with mainta
 
 ## 💻 Tech Stack & Tools
 
-* **Languages(Frontend):** React.js, HTML5, CSS3, SCSS, React Router, Context API, Tailwind CSS, DaisyUI
-* **Languages(Backend):** Node.js, Express.js, RESTful APIs, JWT Authentication, Google Gemini API, Axios, WebSockets
-(Socket.io)
-* **Tools and Libararies:** Git, GitHub, Postman, VS Code, Puppeteer, Multer, PDF-Parse, Zod
-* **Databases:** MongoDB, Mongoose ODM, SQL (Relational Databases)
+### 🌐 Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Validation
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+</p>
+
+### 🛠️ Dev Tools & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multer-555555?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
 
-#### 💬 Let's Chat (MERN, Socket.io, Tailwind, Zustand) [https://github.com/Butola006/SmartChatty]
+#### 💬 Let's Chat (MERN, Socket.io, Tailwind, Zustand)
 A real-time bidirectional messaging platform prioritizing security and speed. 
 * Engineered a modular Express.js backend with **HTTP-only JWT** authentication to mitigate XSS risks.
 * Implemented **WebSockets** for seamless real-time chatting and user presence tracking.
 * Designed a highly responsive UI featuring **32 switchable DaisyUI themes** and integrated Cloudinary for fast media delivery.
 
-#### 📄 InterVue Buddy (MERN, Gemini API, Puppeteer, Zod) [https://github.com/Butola006/InterVue-Buddy]
+#### 📄 InterVue Buddy (MERN, Gemini API, Puppeteer, Zod)
 An end-to-end AI-powered interview preparation and resume generation platform.
 * Built an asynchronous PDF compilation pipeline using **Puppeteer** and the **Gemini AI API**.
 * Automated the generation of ATS-friendly resumes with one-click exports, isolating headless browser operations to optimize the Node.js event loop.
@@ -49,6 +83,15 @@ An end-to-end AI-powered interview preparation and resume generation platform.
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Consistent+Open+Source+Contributor;Passionate+Full-Stack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+<!-- Ever-working GitHub Stats & Streak Cards to showcase activity -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Butola006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Butola006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
