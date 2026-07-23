@@ -87,12 +87,17 @@ An end-to-end AI-powered interview preparation and resume generation platform.
 
 <br/>
 
-<!-- Ever-working GitHub Stats & Streak Cards to showcase activity -->
+<!-- GitHub Streak Card -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Butola006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Butola006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+* **🏆 Open Source Status:** Ranked in the **Top 12.5%** of all global contributors.
+* **🚀 Impact Metrics:** Successfully delivered **10+ merged production pull requests**.
+* **🧠 Algorithmic Core:** Solved **230+ engineering challenges** across LeetCode & GFG.
+* **🔥 Current Focus:** Advancing scalable backend architectures and real-time state synchronization.
 
 <br/>
 
