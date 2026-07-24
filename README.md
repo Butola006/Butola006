@@ -87,9 +87,13 @@ An end-to-end AI-powered interview preparation and resume generation platform.
 
 <br/>
 
-<!-- GitHub Streak Card -->
+<!-- GitHub Snake Contribution Animation -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Butola006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Butola006/Butola006/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Butola006/Butola006/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Butola006/Butola006/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <br/>
